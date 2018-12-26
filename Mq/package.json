@@ -1,0 +1,9 @@
+{
+  "name": "mqtest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "hfs mq test",
+  "dependencies": {
+    "amqplib": "^0.5.1"
+  }
+}
